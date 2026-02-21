@@ -1,0 +1,97 @@
+---
+format: 
+  html: 
+    margin-width: 300px
+---
+
+![](assets/img/portrait1.jpg){.rounded-circle fig-align="center"}
+
+
+::: {.center-block}
+# Yanyu Li
+
+| PhD Speech and Language Sciences
+| Newcastle University
+| [y.li218\@newcastle.ac.uk](mailto:y.li218@newcastle.ac.uk){.email}
+:::
+
+
+::: {style="font-size: 1.8rem"}
+[{{< iconify fa6-brands square-github >}}](https://github.com/yanyu-li) [{{< iconify academicons osf-square >}}](https://osf.io/my-projects?tab=1&page=1) [{{< iconify academicons orcid >}}](https://orcid.org/0009-0007-2712-5523) [{{< iconify fa6-brands square-bluesky >}}](https://bsky.app/profile/yanyuniverse.bsky.social) [{{< iconify fa6-brands square-linkedin >}}](www.linkedin.com/in/yanyu-li-page)
+:::
+
+
+
+I am at the end of my PhD in the department of Speech and Language Sciences (SLS) at Newcastle University (UK). Currently, I am also covering the lectures on Advanced Statistics for SLS Stage 3 Research Methods. I completed my PhD thesis in October 2025, investigating the relationship between acoustic cues and phonetic learning in adult second language (L2) acquisition. Specifically, I tested the effect of a cue-weighting-approach intervention in the perceptual learning of non-native lexical tones based on selective attention theories.
+
+More broadly, I am interested in understanding how human brains decode the rich and complex speech signals to access information. For example, how are acoustic signals from different speakers in various contexts perceived and processed by the brain as meaningful units, such as speech sounds or emotion? What are the relationships between these diverse acoustic dimensions —— are some weighted more than others for effective processing? If there is an underlying rule for cue weighting, is it relatively stable across different tasks, stages, and conditions? What factors contribute to this rule, and how does it affect learning and other life applications such as in medical treatment and aging?
+
+I have a real passion in using experimental and quantitative methods, including both behavioural and neurological methods. I also encourage open and reproducible research workflow.
+
+Read more in my CV [here](assets/cv.pdf)
+
+\
+
+::: grid
+::: g-col-6
+
+**Research interests**
+
+My work investigates the role of acoustic cues in speech perception, emotion perception. I focus on:
+
+-   Speech perception
+-   Second Language (L2) acquisitioin
+-   Emotional prosody
+-   Experimental psychology
+
+[Read more about my research](research.qmd)
+:::
+
+::: g-col-6
+**Education**
+
+-   DPhil in Speech and Language Sciences, 2021-2025 [Newcastle University]{.edu-school}
+
+-   MA (Distinction) in Linguistics, 2019-2020 [The University of Manchester]{.edu-school}
+
+-   BA Hons in English Literature and Language, 2015-2019 [Donghua University]{.edu-school}
+
+-   Exchange programme, Lingnan University, HK, 2018 [Lingnan University, HK]{.edu-school}
+<div>
+
+:::
+:::
+
+\
+
+:::{.callout-tip title="More about me" appearance="simple" icon=false}
+Aside from my life as a researcher, I am made of many other quiet and restless parts. I recharge on the climbing wall, fingers dusted with chalk, and on the badminton court, where movement becomes a kind of meditation. In the woods, especially among tall trees and filtered light, I find a different rhythm. I could spend an entire day there, hidden among branches and birdsong, watching small lives unfold in silence. My heart also has a gentle spot for seagulls and pigeons. I am always struck by their quiet intelligence and effortless grace.
+
+My hobbies live in gentle contrast. Some days, I take a book and board a train to a place I have never seen before, letting curiosity choose the destination. Other mornings, I linger in the kitchen, improvising flavours, or sit with my guitar, following whatever melody arrives.
+
+At the heart of it all is a simple impulse: a genuine curiosity about the world. I want to experience more, understand more, and remain open to whatever the next page, path, or song might bring.
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
