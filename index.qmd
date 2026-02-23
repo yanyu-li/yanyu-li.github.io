@@ -8,20 +8,20 @@ about:
   image-width: 15em
   links:
   - text: LinkedIn
-    href: www.linkedin.com/in/yanyu-li-page
-  - icon: Bluesky
-    text: Bluesky
+    href: https://www.linkedin.com/in/yanyu-li-page/
+  - text: Bluesky
     href: https://bsky.app/profile/yanyuniverse.bsky.social
-  - icon: GitHub
-    text: Github
+  - text: X
+    href: https://x.com/yanyuniverseli
+  - text: GitHub
     href: https://github.com/yanyu-li
-  - icon: ORCID
-    text: ORCID
+  - text: ORCID
     href: https://orcid.org/0009-0007-2712-5523
 ---
 
 ::: {#hero-heading}
 <div style="text-align:center;">
+| /jæ̀n jy̌ lǐ/
 | PhD Speech and Language Sciences
 | Newcastle University
 | [y.li218\@newcastle.ac.uk](mailto:y.li218@newcastle.ac.uk){.email}
