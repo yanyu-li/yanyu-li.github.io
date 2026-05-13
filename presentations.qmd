@@ -9,63 +9,63 @@
     Nov. 2025\
 
 -   Building experiments online: a case study using Gorilla ([pdf](assets/Gorilla_case_study.pdf))\
-Newcastle Linguistic lab open day\
-Newcastle University\
-Apr. 2023\
+    Newcastle Linguistic lab open day\
+    Newcastle University\
+    Apr. 2023\
 
 # Conference presentations
 
 ## 2026
 
--   International Symposium on Bilingual and L2 Processing in Adults and Children (ISBPAC) (poster)\ 
-| An incremental cue-based approach to extended lexical tone training\ 
-| **Yanyu Li**, Laurence White & Ghada Khattab\ 
-| University of Reading, UK\ 
-| Jun. 2026
+-   International Symposium on Bilingual and L2 Processing in Adults and Children (ISBPAC) (poster)\
+    An incremental cue-based approach to extended lexical tone training\
+    **Yanyu Li**, Laurence White & Ghada Khattab\
+    University of Reading, UK\
+    Jun. 2026
 
--   British Association of Academic Phoneticians (BAAP) (talk [pdf](assets/baap_2026.pdf))\ 
-An incremental cue-based approach to extended lexical tone training\ 
-**Yanyu Li**, Laurence White & Ghada Khattab\ 
-Warwick University, UK\ 
-Apr. 2026
+-   British Association of Academic Phoneticians (BAAP) (talk [pdf](assets/baap_2026.pdf))\
+    An incremental cue-based approach to extended lexical tone training\
+    **Yanyu Li**, Laurence White & Ghada Khattab\
+    Warwick University, UK\
+    Apr. 2026
 
--   Experimental Psychology Society (EPS) Meeting (talk [pdf](assets/eps_2026.pdf))\ 
-An incremental cue-based approach to extended lexical tone training\ 
-**Yanyu Li**, Laurence White & Ghada Khattab\ 
-Newcastle University, UK\ 
+-   Experimental Psychology Society (EPS) Meeting (talk [pdf](assets/eps_2026.pdf))  
+An incremental cue-based approach to extended lexical tone training  
+**Yanyu Li**, Laurence White & Ghada Khattab  
+Newcastle University, UK  
 Mar. 2026
+
 
 ## 2025
 
--   Phonetics and Phonology in Europe (PaPE) (poster [pdf](assets/pape_poster_2025.pdf))\ 
-Learning L2 lexical tone discrimination: how is incremental cue training modulated by task difficulty\ 
-**Yanyu Li**, Laurence White & Ghada Khattab\ 
-Palma de Mallorca, Spain\ 
+-   Phonetics and Phonology in Europe (PaPE) (poster [pdf](assets/pape_poster_2025.pdf))  
+Learning L2 lexical tone discrimination: how is incremental cue training modulated by task difficulty  
+**Yanyu Li**, Laurence White & Ghada Khattab  
+Palma de Mallorca, Spain  
 Jun. 2025
 
 ## 2024
 
--   British Association of Academic Phoneticians (BAAP) (posters)\ 
-Lexical tone learning: the effect of Incremental cue training and tonal experience (poster [pdf](assets/bapp_tone_2024.pdf))\ 
-**Yanyu Li**, Laurence White & Ghada Khattab\
+-   British Association of Academic Phoneticians (BAAP) (posters)  
+Lexical tone learning: the effect of Incremental cue training and tonal experience (poster [pdf](assets/bapp_tone_2024.pdf))  
+**Yanyu Li**, Laurence White & Ghada Khattab  
 
-Gamifying phonetic data collection (poster [pdf](assets/baap_gamification_2024.pdf))\ 
-Cong Zhang, **Yanyu Li**, Damar Hoogland, Daniel Duncan\
+Gamifying phonetic data collection (poster [pdf](assets/baap_gamification_2024.pdf))  
+Cong Zhang, **Yanyu Li**, Damar Hoogland, Daniel Duncan  
 
-Cardiff University, UK Mar. 2024\
+Cardiff University, UK Mar. 2024  
 
 
 ## 2023
 
--   International Congress of Phonetic Sciences (ICPhS) (talk [pdf](assets/icphs_slides_2023.pdf))\ 
-Lexical tone learning: the effect of Incremental cue training on non-tonal listeners\ 
-**Yanyu Li**, Laurence White & Ghada Khattab\ 
-Prague.\ 
+-   International Congress of Phonetic Sciences (ICPhS) (talk [pdf](assets/icphs_slides_2023.pdf))  
+Lexical tone learning: the effect of Incremental cue training on non-tonal listeners  
+**Yanyu Li**, Laurence White & Ghada Khattab  
+Prague.  
 Aug. 2023
 
--   New Trends in Chinese as a Second Language conference (talk [pdf](assets/lancaster_conference_slides.pdf))\ 
-Lexical tone learning: the effect of Incremental cue training and tonal experience\ 
-**Yanyu Li**, Laurence White & Ghada Khattab\ 
-Lancaster University, UK\ 
+-   New Trends in Chinese as a Second Language conference (talk [pdf](assets/lancaster_conference_slides.pdf))  
+Lexical tone learning: the effect of Incremental cue training and tonal experience  
+**Yanyu Li**, Laurence White & Ghada Khattab  
+Lancaster University, UK  
 Sep. 2023
-
