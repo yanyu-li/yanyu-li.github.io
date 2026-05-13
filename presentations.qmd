@@ -47,7 +47,7 @@ Jun. 2025
 ## 2024
 
 -   British Association of Academic Phoneticians (BAAP) (posters)  
-Lexical tone learning: the effect of Incremental cue training and tonal experience (poster [pdf](assets/bapp_tone_2024.pdf))  
+Lexical tone learning: the effect of Incremental cue training and tonal experience (poster [pdf](assets/baap_tone_2024.pdf))  
 **Yanyu Li**, Laurence White & Ghada Khattab  
 
 Gamifying phonetic data collection (poster [pdf](assets/baap_gamification_2024.pdf))  
