@@ -14,6 +14,16 @@ My research interests span a range of topics within psycholinguistics, mainly us
 This project demonstrates that audio-based gamified tasks (e.g., points, leaderboards, and rewards) can effectively replace traditional incentives in phonetic perception research, showing that North East England listeners struggle to accurately distinguish local dialects despite strong folk beliefs about fine-grained regional differences. 
 :::
 
+:::{.callout-note title="The perception and learning of Mandarin lexical tone by L1 English and Estonian listeners" icon=false}
+The projects aims to understand the influence of first languages (L1s) on non-native lexical tone perception and learning. Specifically, Estonian has three quantities at the lexical level, specified by different combinations of duration and pitch, whilst English does not use pitch as a primary cue to contrast word meanings. Through AX tasks in disyllabic contexts, we aim to explore whether the Estonian quantity system would benefit L1 Estonian listeners in perceiving and learning Mandarin lexical tone and perform better than L1 English listeners.
+:::
+
+:::{.callout-note title="How Accent Perception Shapes Higher Education Experiences in the UK" icon=false}
+Accent is an important part of how people communicate and express identity. In Higher Education (HE), accents can also shape how individuals are perceived, judged, or treated by others. This project explores how accent influences university experiences for both students and staff at any UK-based HE institution, focusing on both academic/professional and social contexts./
+The project asks how individuals perceive their own accent, how they believe others perceive it, and whether these perceptions affect their confidence, participation, relationships, and sense of inclusion at university. It also examines whether people feel their accent has created advantages or disadvantages in teaching, meetings, peer relationships, interactions with students or staff, and communication with people outside the university. In addition, the project considers whether individuals have ever felt pressure to change or adapt their accent in university settings, and whether language-based judgements have affected their career or future opportunities./
+Through a questionnaire, the project will collect both structured responses and personal examples from staff and students across different roles, schools, linguistic backgrounds, and demographic groups. By understanding these experiences, the study aims to understand how accent perception shapes participation and equality in higher education, and to inform more inclusive practices within the university./
+:::
+
 # Past projects
 
 ::: {.callout-note title="Many speech analysis" icon=false}
