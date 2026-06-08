@@ -17,20 +17,20 @@
 
 ## 2026
 
--   International Symposium on Bilingual and L2 Processing in Adults and Children (ISBPAC) (poster)\
-    An incremental cue-based approach to extended lexical tone training\
+-   International Symposium on Bilingual and L2 Processing in Adults and Children (ISBPAC) (poster [pdf](assets/ISBPAC_poster_2026.pdf))\
+    An incremental cue-weighting approach to extended lexical tone training\
     **Yanyu Li**, Laurence White & Ghada Khattab\
     University of Reading, UK\
     Jun. 2026
 
 -   British Association of Academic Phoneticians (BAAP) (talk [pdf](assets/baap_2026.pdf))\
-    An incremental cue-based approach to extended lexical tone training\
+    An incremental cue-weighting approach to extended lexical tone training\
     **Yanyu Li**, Laurence White & Ghada Khattab\
     Warwick University, UK\
     Apr. 2026
 
 -   Experimental Psychology Society (EPS) Meeting (talk [pdf](assets/eps_2026.pdf))  
-An incremental cue-based approach to extended lexical tone training  
+An incremental cue-weighting approach to extended lexical tone training  
 **Yanyu Li**, Laurence White & Ghada Khattab  
 Newcastle University, UK  
 Mar. 2026
