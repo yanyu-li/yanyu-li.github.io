@@ -10,10 +10,6 @@ My research interests span a range of topics within psycholinguistics, mainly us
 
 # Current projects
 
-::: {.callout-note title="Gamification in perceptual dialectology" icon=false}
-This project demonstrates that audio-based gamified tasks (e.g., points, leaderboards, and rewards) can effectively replace traditional incentives in phonetic perception research, showing that North East England listeners struggle to accurately distinguish local dialects despite strong folk beliefs about fine-grained regional differences. 
-:::
-
 :::{.callout-note title="The perception and learning of Mandarin lexical tone by L1 English and Estonian listeners" icon=false}
 The projects aims to understand the influence of first languages (L1s) on non-native lexical tone perception and learning. Specifically, Estonian has three quantities at the lexical level, specified by different combinations of duration and pitch, whilst English does not use pitch as a primary cue to contrast word meanings. Through AX tasks in disyllabic contexts, we aim to explore whether the Estonian quantity system would benefit L1 Estonian listeners in perceiving and learning Mandarin lexical tone and perform better than L1 English listeners.
 :::
@@ -27,6 +23,10 @@ Through a questionnaire, the project will collect both structured responses and 
 :::
 
 # Past projects
+
+::: {.callout-note title="Gamification in perceptual dialectology" icon=false}
+This project demonstrates that audio-based gamified tasks (e.g., points, leaderboards, and rewards) can effectively replace traditional incentives in phonetic perception research, showing that North East England listeners struggle to accurately distinguish local dialects despite strong folk beliefs about fine-grained regional differences. 
+:::
 
 ::: {.callout-note title="Many speech analysis" icon=false}
 The [*Many Speech Analyses*](https://osf.io/3bmcp/overview) project set out to quantify the analytic flexibility in the speech sciences and explored how it affects our scientific conclusions.
