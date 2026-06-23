@@ -3,7 +3,7 @@
 - Coretta, S., Casillas, J. V., …, [Li, Y]{.underline}, ... & Wood, A. (2023). Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human-speech analyses. *Advances in Methods and Practices in Psychological Science*, 6(3). 
 [doi](https://doi.org/10.1177/25152459231162567) [pdf](assets/paper/many_speech.pdf)
 
-- [Li, Y.]{.underline}, Hoogland, D., Duncan, D., & Zhang, C. (In press, *Linguistic Vanguard*). Gamification in Phonetic Data Collection: Accent Recognition of Northeast England Regions. [doi](https://doi.org/10.17605/OSF.IO/A7S3B) [pdf](assets/paper/LiEtAl_2026_Gamification_accepted.pdf)
+- [Li, Y.]{.underline}, Hoogland, D., Duncan, D., & Zhang, C. (2026). Gamification in phonetic perception data collection: accent identification in North East England. *Linguistics Vanguard*. [doi](https://doi.org/10.1515/lingvan-2025-0184) [pdf](assets/paper/LiEtAl_2026_Gamification.pdf)
 
 ## Journal articles (in progress)
 
