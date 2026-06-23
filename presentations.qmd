@@ -50,7 +50,7 @@ Jun. 2025
 Lexical tone learning: the effect of Incremental cue training and tonal experience (poster [pdf](assets/presentation/baap_tone_2024.pdf))  
 **Yanyu Li**, Laurence White & Ghada Khattab  
 
-Gamifying phonetic data collection (poster [pdf](assets/presentation/baap_gamification_2024.pdf))  
+-   Gamifying phonetic data collection (poster [pdf](assets/presentation/baap_gamification_2024.pdf))  
 Cong Zhang, **Yanyu Li**, Damar Hoogland, Daniel Duncan  
 
 Cardiff University, UK Mar. 2024  
