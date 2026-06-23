@@ -37,8 +37,6 @@ format:
       dark:  Darkly
     toc: true
     toc-location: left
-    highlight-style: 
-      light: a11y-light
-      dark: a11y-dark
+
 
 
