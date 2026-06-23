@@ -1,14 +1,14 @@
 # Invited talks
 
--   Gamification to data collection in perceptual dialectology Northeast ([pdf](assets/gamification_network.pdf))\
+-   Gamification to data collection in perceptual dialectology Northeast ([pdf](assets/presentation/gamification_network.pdf))\
     Game Network, Newcastle University\
     May. 2026
 
--   An incremental cue-based approach to lexical tone learning ([pdf](assets/psychology_seminar.pdf))\
+-   An incremental cue-based approach to lexical tone learning ([pdf](assets/presentation/psychology_seminar.pdf))\
     School of Psychology, Newcastle University\
     Nov. 2025\
 
--   Building experiments online: a case study using Gorilla ([pdf](assets/Gorilla_case_study.pdf))\
+-   Building experiments online: a case study using Gorilla ([pdf](assets/presentation/Gorilla_case_study.pdf))\
     Newcastle Linguistic lab open day\
     Newcastle University\
     Apr. 2023\
@@ -17,19 +17,19 @@
 
 ## 2026
 
--   International Symposium on Bilingual and L2 Processing in Adults and Children (ISBPAC) (poster [pdf](assets/ISBPAC_poster_2026.pdf))\
+-   International Symposium on Bilingual and L2 Processing in Adults and Children (ISBPAC) (poster [pdf](assets/presentation/ISBPAC_poster_2026.pdf))\
     An incremental cue-weighting approach to extended lexical tone training\
     **Yanyu Li**, Laurence White & Ghada Khattab\
     University of Reading, UK\
     Jun. 2026
 
--   British Association of Academic Phoneticians (BAAP) (talk [pdf](assets/baap_2026.pdf))\
+-   British Association of Academic Phoneticians (BAAP) (talk [pdf](assets/presentation/baap_2026.pdf))\
     An incremental cue-weighting approach to extended lexical tone training\
     **Yanyu Li**, Laurence White & Ghada Khattab\
     Warwick University, UK\
     Apr. 2026
 
--   Experimental Psychology Society (EPS) Meeting (talk [pdf](assets/eps_2026.pdf))  
+-   Experimental Psychology Society (EPS) Meeting (talk [pdf](assets/presentation/eps_2026.pdf))  
 An incremental cue-weighting approach to extended lexical tone training  
 **Yanyu Li**, Laurence White & Ghada Khattab  
 Newcastle University, UK  
@@ -38,7 +38,7 @@ Mar. 2026
 
 ## 2025
 
--   Phonetics and Phonology in Europe (PaPE) (poster [pdf](assets/pape_poster_2025.pdf))  
+-   Phonetics and Phonology in Europe (PaPE) (poster [pdf](assets/presentation/pape_poster_2025.pdf))  
 Learning L2 lexical tone discrimination: how is incremental cue training modulated by task difficulty  
 **Yanyu Li**, Laurence White & Ghada Khattab  
 Palma de Mallorca, Spain  
@@ -47,10 +47,10 @@ Jun. 2025
 ## 2024
 
 -   British Association of Academic Phoneticians (BAAP) (posters)  
-Lexical tone learning: the effect of Incremental cue training and tonal experience (poster [pdf](assets/baap_tone_2024.pdf))  
+Lexical tone learning: the effect of Incremental cue training and tonal experience (poster [pdf](assets/presentation/baap_tone_2024.pdf))  
 **Yanyu Li**, Laurence White & Ghada Khattab  
 
-Gamifying phonetic data collection (poster [pdf](assets/baap_gamification_2024.pdf))  
+Gamifying phonetic data collection (poster [pdf](assets/presentation/baap_gamification_2024.pdf))  
 Cong Zhang, **Yanyu Li**, Damar Hoogland, Daniel Duncan  
 
 Cardiff University, UK Mar. 2024  
@@ -58,13 +58,13 @@ Cardiff University, UK Mar. 2024
 
 ## 2023
 
--   International Congress of Phonetic Sciences (ICPhS) (talk [pdf](assets/icphs_slides_2023.pdf))  
+-   International Congress of Phonetic Sciences (ICPhS) (talk [pdf](assets/presentation/icphs_slides_2023.pdf))  
 Lexical tone learning: the effect of Incremental cue training on non-tonal listeners  
 **Yanyu Li**, Laurence White & Ghada Khattab  
 Prague.  
 Aug. 2023
 
--   New Trends in Chinese as a Second Language conference (talk [pdf](assets/lancaster_conference_slides.pdf))  
+-   New Trends in Chinese as a Second Language conference (talk [pdf](assets/presentation/lancaster_conference_slides.pdf))  
 Lexical tone learning: the effect of Incremental cue training and tonal experience  
 **Yanyu Li**, Laurence White & Ghada Khattab  
 Lancaster University, UK  
