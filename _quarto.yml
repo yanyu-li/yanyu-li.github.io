@@ -1,11 +1,14 @@
 project:
   type: website
   output-dir: _site
+  render: 
+    - "*.qmd"
 
 website:
   title: "Yanyu Li"
   description: "Speech perception | Prosody | Experimental methods"
   navbar:
+    background: light
     left:
       - text: "Welcome"
         href: index.qmd
@@ -32,6 +35,10 @@ format:
     theme: 
       light: Flatly
       dark:  Darkly
-    toc: false
+    toc: true
+    toc-location: left
+    highlight-style: 
+      light: a11y-light
+      dark: a11y-dark
 
 
