@@ -28,7 +28,7 @@ about:
 </div>
 :::
 
-I am currently employed as a Research Fellow (01.09.2025-31.12.2026) at the Institute of Psychology, University of Tartu in Estonia. Specifically, I am working on an Estonian Research Council funded project "Native language experience and the brain’s perception and learning of a foreign language" led by [Dr Siqi Lyu] (https://www.etis.ee/CV/Siqi_Lyu/eng/). This project aims to understand how first languages (L1s) (i.e., English and Estonian) with different pitch functions can afect the perception and learning of non-native Mandarin lexical tones through a combination of behavioural and EEG experiments. 
+I am currently employed as a Research Fellow (01.09.2025-31.12.2026) at the Institute of Psychology, University of Tartu in Estonia. Specifically, I am working on an Estonian Research Council funded project "Native language experience and the brain’s perception and learning of a foreign language" led by [Dr Siqi Lyu](https://www.etis.ee/CV/Siqi_Lyu/eng/). This project aims to understand how first languages (L1s) (i.e., English and Estonian) with different pitch functions can afect the perception and learning of non-native Mandarin lexical tones through a combination of behavioural and EEG experiments. 
 
 I completed my PhD in the department of Speech and Language Sciences (SLS) at Newcastle University (UK) in December 2025. My PhD thesis investigated the relationship between acoustic cues and phonetic learning in adult second language (L2) acquisition. Specifically, I tested the effect of a cue-weighting-approach intervention in the perceptual learning of non-native lexical tones based on selective attention theories.
 
